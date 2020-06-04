@@ -3,7 +3,8 @@ class Dog
     @name
 end
 
-def 
+def name=(name)
+  
 end 
 
 fido = Dog.new
