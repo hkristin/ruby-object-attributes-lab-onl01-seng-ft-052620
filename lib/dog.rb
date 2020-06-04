@@ -7,6 +7,7 @@ def name=(name)
   @name = name
 end 
 
-def 
+def breed
+end
 
 fido = Dog.new
