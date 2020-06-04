@@ -5,9 +5,10 @@ end
 
 def name=(name)
   @name = name
-end 
+end
 
 def breed
+end
 end
 
 fido = Dog.new
